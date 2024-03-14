@@ -100,6 +100,7 @@ footer a{
 }
 
 @media only screen and (max-width: 850px) {
+    
     .container{
         width: 300px;
         height: auto;
@@ -108,7 +109,7 @@ footer a{
         align-items: center;
         justify-content: center;
         flex-direction: column;
-        
+        margin-bottom: 50px;
         color: white;
         border: 2px solid transparent;
         border-radius: 20px;
