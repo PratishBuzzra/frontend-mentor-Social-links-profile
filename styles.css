@@ -86,7 +86,7 @@ h1{
     background-color: hsl(75, 94%, 57%);
     color: black;
 }
-footer{
+/* footer{
     color: white;
     position: absolute;
     padding-bottom: 15px;
@@ -97,7 +97,7 @@ footer{
 }
 footer a{
     color: hsl(75, 94%, 57%);
-}
+} */
 
 @media only screen and (max-width: 850px) {
     
