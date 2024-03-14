@@ -1,8 +1,9 @@
-# Frontend Mentor - Single price grid component solution
+# Frontend Mentor - Social links profile solution
 
-This is a solution to the [Single price grid component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-### Table of contents
+
+## Table of contents
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
@@ -22,16 +23,15 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 
 Users should be able to:
 
-- View the optimal layout for the component depending on their device's screen size
-- See a hover state on desktop for the Sign Up call-to-action
+- See hover and focus states for all interactive elements on the page
 
-#### Screenshot
+### Screenshot
 ![alt text](image.png)
 
 ### Links
 
-- Solution URL: [github solution](https://github.com/PratishBuzzra/frontendmentor-single-price-grid.git)
-- Live Site URL: [Github page live URL](https://pratishbuzzra.github.io/frontendmentor-single-price-grid/)
+- Solution URL: [github solution](https://github.com/PratishBuzzra/frontend-mentor-Social-links-profile.git)
+- Live Site URL: [github page live URL](https://pratishbuzzra.github.io/frontend-mentor-Social-links-profile/)
 
 ## My process
 
@@ -46,4 +46,4 @@ Users should be able to:
 ## Author
 
 
-- Frontend Mentor - [@PratishBuzzra](https://www.frontendmentor.io/profile/PratishBuzzra)
+- Frontend Mentor - [@PratishBajracharya](https://www.frontendmentor.io/profile/PratishBuzzra)
