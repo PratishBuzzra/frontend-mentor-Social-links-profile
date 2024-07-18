@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 ![laptop view](image-1.png)
-![mobile view](mobileimg0jpg)
+![mobile view](mobileimgjpg)
 
 ### Links
 
