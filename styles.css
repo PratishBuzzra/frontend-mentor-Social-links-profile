@@ -1,0 +1,168 @@
+@import url(https://fonts.google.com/specimen/Inter);
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: hsl(0, 0%, 8%);
+    font-family: Inter, sans-serif;
+    overflow: hidden;
+   
+}
+main{
+    min-height: 100vh;
+  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+
+    }
+.container{
+    width: 380px;
+    height: auto;
+    background-color: hsl(0, 0%, 12%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    
+    color: white;
+    border: 2px solid transparent;
+    border-radius: 20px;
+
+}
+img{
+    width: 120px;
+    border: none;
+    border-radius: 50%;
+  margin-bottom: 1.5rem;
+    margin-top: 1rem;
+    
+}
+h1{
+    
+    font-size: 1.6rem;
+    font-weight: 700;
+    text-align: center;
+}
+#location{
+    margin-top: 10px;
+    font-size: 1.1rem;
+    font-weight: 400;
+    text-align: center;
+    color: hsl(75, 94%, 57%);
+    text-align: center;
+}
+.container p{
+    font-size: 14px;
+    font-weight: 400;
+    color: hsl(0, 0%, 100%);
+    margin-top: 30px;
+    text-align: center;
+    
+
+}
+.social-links{
+    display: flex;
+    flex-direction: column;
+   margin: 15px 0;
+}
+.social-links button{
+    width: 310px;
+    padding: 11px;
+    margin: 8px 0px;
+    border-radius: 10px;
+    border: 2px solid transparent;
+    background-color: hsl(0, 0%, 20%);
+    color: hsl(0, 0%, 100%);
+    font-size: 14px;
+    font-weight: 700;
+    transition: 0.5s ease-in-out;
+}
+.social-links button:hover{
+    transform: scale(1.1);
+    background-color: hsl(75, 94%, 57%);
+    color: black;
+}
+/* footer{
+    color: white;
+    position: absolute;
+    padding-bottom: 15px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+}
+footer a{
+    color: hsl(75, 94%, 57%);
+} */
+
+@media only screen and (max-width: 850px) {
+    
+    .container{
+        width: 300px;
+        height: auto;
+        background-color: hsl(0, 0%, 12%);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        margin-bottom: 50px;
+        color: white;
+        border: 2px solid transparent;
+        border-radius: 20px;
+    
+    }
+    img{
+        width: 100px;
+        border: none;
+        border-radius: 50%;
+      margin-bottom: 1.5rem;
+        margin-top: 1rem;
+        
+    }
+    h1{
+    
+        font-size: 1.4rem;
+        font-weight: 700;
+        text-align: center;
+    }
+    #location{
+        margin-top: 10px;
+        font-size: 0.9rem;
+        font-weight: 400;
+        text-align: center;
+        color: hsl(75, 94%, 57%);
+       
+    }
+    .container p{
+        font-size: 12px;
+        font-weight: 400;
+        color: hsl(0, 0%, 100%);
+        margin-top: 20px;
+        text-align: center;
+        
+    
+    }
+    .social-links{
+        display: flex;
+        flex-direction: column;
+       margin: 15px 0;
+    }
+    .social-links button{
+        width: 240px;
+        padding: 8px;
+        margin: 8px;
+        border-radius: 10px;
+        border: 2px solid transparent;
+        background-color: hsl(0, 0%, 20%);
+        color: hsl(0, 0%, 100%);
+        font-size: 12px;
+        font-weight: 700;
+        transition: 0.5s ease-in-out;
+    }
+    
+    
+  }
